@@ -2,7 +2,7 @@
 
 How to run this repo?
 
-`mvn clean install spring-boot:run`
+`gradke bootRun`
 
 Test the API in your command line
 
