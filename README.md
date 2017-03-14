@@ -2,7 +2,7 @@
 
 How to run this repo?
 
-`gradke bootRun`
+`gradle bootRun`
 
 Test the API in your command line
 
