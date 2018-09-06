@@ -14,7 +14,7 @@ curl --data "name=uchiha_sasuke&email=uchiha_sasuke@konohagakure.co.jp" http://l
 
 Get All User
 ```
-curl -i -H "Accept: application/json" -H "Content-Type: application/json" -X GET http://localhost:8080/users/all
+curl -i -H "Accept: application/json" -H "Content-Type: application/json" -X GET http://localhost:8080/all
 ```
 
 Find User by name
